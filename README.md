@@ -1,2 +1,2 @@
-# kamehameha-python
+# kamehameha
 This is where I experiment in Python :)
